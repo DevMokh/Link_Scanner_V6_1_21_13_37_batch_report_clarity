@@ -1,0 +1,2 @@
+# Link_Scanner_V6_1_21_13_37_batch_report_clarity
+Flutter project created by KLENCOD IDE
